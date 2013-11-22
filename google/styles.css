@@ -1,3 +1,16 @@
-body {
-  /* rules go here */
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 230px;
+  padding-top: 275px;
+}
+.searchTerm {
+  display: block;
+   margin-left: auto;
+  margin-right: auto;
+
+}
+.buttonHolder {
+  text-align: center;
 }
